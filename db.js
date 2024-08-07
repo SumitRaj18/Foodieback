@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = "mongodb://localhost:27017/FoodieNation";
+const mongoURI = "mongodb+srv://Sumit8076:Sumit8076@cluster0.cezja.mongodb.net/FoodieNation";
 
 const mongoDB = async () => {
     try {
